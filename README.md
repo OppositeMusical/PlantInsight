@@ -1,1 +1,1 @@
-# PlantInsight
+# This program allows you to upload photos in jpg, jpeg, or png format. The program will then identify the plant, then give a health assessment. After that you can go to the chatbot page and discuss the results with an ai if you have questions or want more information.
