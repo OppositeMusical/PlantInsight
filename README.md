@@ -1,1 +1,2 @@
 # This program allows you to upload photos in jpg, jpeg, or png format. The program will then identify the plant, then give a health assessment. After that you can go to the chatbot page and discuss the results with an ai if you have questions or want more information.
+# You can get an api key for plantid on the kindwise website, you'll get 100 uses before the key runs out. This means if you use the identification and health assessment  at the same time then you'll only get 50 images per api key. Keep in mind that kindwise charges after 100 uses.
